@@ -29,6 +29,13 @@ Form{
   margin-bottom: 5px;
 }
 
+.ProdType{
+margin-left: 119px;
+}
+.ProdCat{
+margin-left: 90px;
+}
+
 .dropdown{
   margin-right: 0px;
 }
